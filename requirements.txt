@@ -1,0 +1,15 @@
+aiogram==3.6.0
+aiohttp==3.9.5
+aiofiles==23.2.1
+aiosignal==1.3.1
+python-dotenv==1.0.0
+# sqlalchemy==2.0.31
+# asyncpg==0.29.0
+
+#aiosqlite==0.20.0 - проверить pip list (delete-лишнее)
+
+# PyMySQL==1.1.0
+# aiomysql==0.2.0
+# mysql-connector-python==8.4.0
+# mysql==0.0.3
+# mysql-connector==2.2.9
