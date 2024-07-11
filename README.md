@@ -2,11 +2,10 @@
 
 ## anti_spam_Telegram_bot - Защитник Твоей группы!
  
-### Автор: https://github.com/Den4u 
+### Автор: Den4yoo
 
-### Проект доступен по домену: 
 
-### anti_spam_Telegram_bot - бот для ...
+### anti_spam_Telegram_bot - бот для отлова Url's спам ссылок в текстовых сообщениях. 
 
 ### Выполненные задачи:
  <br />
@@ -18,10 +17,6 @@
 
 ### Инструменты и стек технологий: <br /> 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) <br /> 
-![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
  
 ## Запуск проекта на удалённом сервере: 
  
